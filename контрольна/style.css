@@ -19,9 +19,13 @@ table tr {
     justify-content: space-around;
     
 }
+.text {
+    position: absolute;
+}
 .block-1 {
     position: relative;
     background-color: blueviolet;
+
 }
 .block-1 p {
     color: white;
@@ -155,6 +159,9 @@ div h4 {
     }
     .col-sm-12 {
         width: 100%;
+    }
+    .block-1 {
+        height: 97px;
     }
     .block-1 div {
         top: 48px;
