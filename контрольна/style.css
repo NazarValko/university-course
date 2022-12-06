@@ -6,6 +6,7 @@ h1, h2, h3 {
 }
 table, th, td {
     border: 2px solid black;
+    border-collapse: collapse;
 }
 table tr {
     text-align: center;
